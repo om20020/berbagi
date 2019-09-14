@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/03 14.00.00.000.203,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/03 14.00.00.000.208,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/03 14.00.00.000.950,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/12 18.00.00.000.475,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/13 10.00.00.000.212,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/22 13.00.00.000.520,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/27 12.00.00.000.131,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/25 13.00.00.000.618,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 08.00.00.000.025,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 10.00.00.000.823,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 10.00.00.000.624,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 10.00.00.000.670,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/27 08.00.00.000.925,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/12 14.00.00.000.334,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/13 11.00.00.000.770,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/25 15.00.00.000.869,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/05 14.00.00.000.553,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/07 12.00.00.000.703,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/07 13.00.00.000.616,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/07 13.00.00.000.546,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/07 13.00.00.000.625,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/07 17.00.00.000.821,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/10 19.00.00.000.612,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/12 08.00.00.000.561,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/13 17.00.00.000.859,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/14 18.42.32.328,=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/14 19.01.51.388,C:\Users\Andi\Documents\program\tico\Unit1.pas=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/14 19.01.51.388,C:\Users\Andi\Documents\program\tico\Unit1.fmx=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/09/14 19.01.55.817,C:\Users\Andi\Documents\program\tico\Project1.dproj=C:\Users\Andi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
