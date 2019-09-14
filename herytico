@@ -49,15 +49,6 @@ begin
   if Result=false then
   begin
     WSConn1.Encrypted := False;
-
-    WSConn1.Host      := 'localhost';
-    WSconn1.Port      := 3306;
-    WSconn1.User      := 'root';
-    WSconn1.Password  := 'rahasia1';
-    WSconn1.Database  := 'alhusna';
-    WSconn1.WSURL     := 'http://localhost/ws-query323.php';
-    WSconn1.Token     := 25;
-{
     WSConn1.Host      := 'localhost';
     WSconn1.Port      := 3306;
     WSconn1.User      := 'root';
@@ -65,8 +56,8 @@ begin
     WSconn1.Database  := 'dbsekolah';
     WSconn1.WSURL     := 'http://192.168.1.2/ws.php';
     WSconn1.Token     := 77;
-}
-    try
+
+  try
       WSconn1.Connect;
       Result := True;
     except
